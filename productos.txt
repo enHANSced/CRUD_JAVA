@@ -1,0 +1,21 @@
+1010;Smart TV LG 4K;12,995.00;Televisión;560
+1011;Laptop Dell Inspiron 3515;19,995.00;Computadoras;584
+1012;Estufa Eléctrica GE;16,995.23;Electrodomésticos;484
+1013;Refrigeradora Samsung;13,495.50;Electrodomésticos;59
+1014;Samsung Galaxy Watch;5,495.00;Accesorios;48
+1015;Smart TV Samsung;11,495.2;Televisión;89
+1016;TV LG LED HD;3,500.00;Televisión;106
+1017;Apple Iphone 14 Pro Max;51,995.00;Celulares;250
+1018;Samsung Galaxy S23 Ultra 5G;42,995.00;Celulares;453
+1019;Laptop Apple Macbook Pro 16";95,995.00;Computadoras;78
+1020;Tablet Apple Ipad Pro;43,995.00;Tablets;85
+1021;Laptop Asus Vivobook;13,250.00;Computadoras;456
+1022;Huawei Mate 50 Pro;36,995.00;Celulares;562
+1023;Impresora Multifuncional HP;6,995.00;Accesorios;45
+1024;Samsung Galaxy Buds 2; 2,595.00;Audio;74
+1025;Apple Airpods 2da Gen.;9,955.00;Audio;54
+1026;Red Dead Redemption 2;562.00;Videojuegos;17
+1027;Cargador Inalámbrico Samsung;1,895.00;Accesorios;96
+1028;Nintendo Switch OLED;15,995.00;Videojuegos;45
+1029;Microondas Frigidaire;2,295.00;Electrodomésticos;56
+1030;Elden Ring;1,230.00;Videojuegos;70
